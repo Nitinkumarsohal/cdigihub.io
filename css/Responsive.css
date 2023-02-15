@@ -55,6 +55,9 @@
     max-width: 100%;
     flex: 50%;
 }
+     .section5 .main-box span {
+    font-size: 14px;
+}
 }
 
 

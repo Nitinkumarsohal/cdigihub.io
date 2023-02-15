@@ -53,8 +53,8 @@
     padding: 15px 0px 15px 0px;
 }
 .section2 .style-box {
-    flex: 40%;
-    max-width: 50%;
+    flex: 100%;
+    max-width: 100%;
     width:100%;
 }
      .section5 .main-box span {

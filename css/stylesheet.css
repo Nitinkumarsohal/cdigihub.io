@@ -1,0 +1,152 @@
+:root{
+    --bg-color:#01539E;
+}
+.top-bar{
+    background-color: var(--bg-color);
+    padding: 1px;
+}
+.top-bar .text span{
+    font-weight: 500;
+    font-size: 15px;
+    font-family: 'Hind', sans-serif;
+    color: white;
+    margin:10px;
+    padding-right: 7px;
+    border-right: 1px solid #666666;
+
+}
+/* top-ar close  */
+
+header{
+    background-color: transparent;
+}
+.navbar-brand img{
+    width: 80px;
+    height: 73px;
+    object-fit: contain;
+}
+.nav-link{
+    color: #252525;
+    font-family: 'Hind', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 10px ;
+    padding: 5px;
+    overflow: hidden;
+
+}
+.nav-link:hover{
+    color: #252525;
+    border-bottom: 2px solid #01539E;
+   
+}
+
+.icon i{
+    font-size:29px;
+}
+/* header close  */
+
+.section1{
+    background-image: url("../images/banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 318px;
+}
+.section1 h3{
+    font-family: 'Hind', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 110%;
+    color:white;
+}
+.section1 p{
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Hind', sans-serif;
+    color: white;
+}
+/* section1 close  */
+.section2{
+    padding: 50px 0px 50px 0px;
+
+}
+.section2 img{
+    height: auto;
+    width: 100%;
+}
+.section2 .card-text h4{
+    font-weight: 600;
+    font-size: 21px;
+    padding-top: 17px;
+    font-family: 'Hind', sans-serif;
+}
+.section2 .card-text p{
+    margin: 0px;
+    line-height: 178%;
+    font-weight: 400;
+    font-size: 18px;
+}
+.section2  .card-text .btn-1{
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-weight: 400;
+    font-size: 18px;
+    background: #01539E;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    font-family: 'Hind', sans-serif;
+    color: white;
+    padding: 12px 37px 12px 37px;
+
+}
+/* section2 close  */
+
+.section3{
+    padding: 30px 0px 0px 0px;
+}
+.section3 img{
+    width: 100%;
+}
+/* section3 close  */
+
+.section4{
+   height: 80px;
+    background-image: url("../images/bg1.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* section4close  */
+.section5{
+    padding: 15px 0px 15px 0px;
+}
+.sectio5 .main-box{
+    text-align: center;
+}
+.section5 .main-box span{
+    font-weight: 600;
+    font-size: 18px;
+
+}
+.section5 .main-box img{
+    width: 55px;
+    height: 50px;
+    object-fit: contain;
+    margin-left: 15px;
+}
+.section5 p{
+    margin: 2px;
+    font-weight: 600;
+    font-size: 14px;
+    color:  #666666;
+}
+.section .img-1{
+    width: 42px;
+    height: 45px;
+    margin: 5px;
+    object-fit: contain;
+}

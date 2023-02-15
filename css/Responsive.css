@@ -10,7 +10,7 @@
     .section2 .style-box {
         flex: 40%;
         width:100%;
-        max-width: 50%;
+        max-width: 100%;
     }
     .section2 .card-text h4 {
         font-size: 24px;
@@ -66,9 +66,9 @@
 
 @media (max-width: 575.98px) {
     .section2 .style-box {
-        max-width: 50%;
+        max-width: 100%;
         flex: 100%;
-        width:50%;
+        width:100%;
     }
     .section2 .card-text h4 {
         font-size: 28px;
